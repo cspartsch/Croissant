@@ -12,7 +12,7 @@ h1 {
   margin-top: 10px;
 }
 
-.croissant-anatomy {
+.croissant-photo {
   max-width: 300px;
   border-radius: 4px;
   display: block;
@@ -29,6 +29,7 @@ h1 {
 .container {
   padding: 40px;
 }
-.contact-us{
+.contact-us {
   text-align: center;
+  margin-bottom: 20px;
 }
