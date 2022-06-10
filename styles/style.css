@@ -1,7 +1,15 @@
+body {
+  background: radial-gradient(73% 147%, #eadfdf 59%, #ece2df 100%),
+    radial-gradient(
+      91% 146%,
+      rgba(255, 255, 255, 0.5) 47%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+}
 h1 {
   color: green;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .croissant-anatomy {
@@ -12,7 +20,12 @@ h1 {
   margin-bottom: 30px;
 }
 .card {
-  margin-top: 50px;
+  margin-top: 30px;
   display: block;
   margin: 0 auto;
+  padding: 25px;
+  margin-bottom: 20px;
+}
+.container {
+  padding: 40px;
 }
